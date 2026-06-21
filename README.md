@@ -1,4 +1,5 @@
 # project-demo
 This is my first Git Repository.
 <br>
-Author - Prateesh Dahiya
+Author - Prateesh (IIT BHU)
+
